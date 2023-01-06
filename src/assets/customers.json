@@ -1,0 +1,22 @@
+[
+  {
+    "customer_id": 1,
+    "customer_name": "varun",
+    "amount_receivable": 100
+  },
+  {
+    "customer_id": 2,
+    "customer_name": "suraj",
+    "amount_receivable": 500
+  },
+  {
+    "customer_id": 3,
+    "customer_name": "priti",
+    "amount_receivable": 400
+  },
+  {
+    "customer_id": 4,
+    "customer_name": "indu",
+    "amount_receivable": 20
+  }
+]
